@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/color-broccoli/precache-manifest.a67b7d0311465d8d690aac14721af48d.js"
+  "/colorful-broccoli/precache-manifest.ff4f34f441b9856125790db90d32af74.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/color-broccoli/index.html", {
+workbox.routing.registerNavigationRoute("/colorful-broccoli/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

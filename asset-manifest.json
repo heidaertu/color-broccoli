@@ -1,14 +1,14 @@
 {
-  "main.css": "/color-broccoli/static/css/main.70069951.chunk.css",
-  "main.js": "/color-broccoli/static/js/main.da94340b.chunk.js",
-  "main.js.map": "/color-broccoli/static/js/main.da94340b.chunk.js.map",
-  "runtime~main.js": "/color-broccoli/static/js/runtime~main.aff8c544.js",
-  "runtime~main.js.map": "/color-broccoli/static/js/runtime~main.aff8c544.js.map",
-  "static/js/2.8f71a45e.chunk.js": "/color-broccoli/static/js/2.8f71a45e.chunk.js",
-  "static/js/2.8f71a45e.chunk.js.map": "/color-broccoli/static/js/2.8f71a45e.chunk.js.map",
-  "index.html": "/color-broccoli/index.html",
-  "precache-manifest.a67b7d0311465d8d690aac14721af48d.js": "/color-broccoli/precache-manifest.a67b7d0311465d8d690aac14721af48d.js",
-  "service-worker.js": "/color-broccoli/service-worker.js",
-  "static/css/main.70069951.chunk.css.map": "/color-broccoli/static/css/main.70069951.chunk.css.map",
-  "static/media/logo.svg": "/color-broccoli/static/media/logo.5d5d9eef.svg"
+  "main.css": "/colorful-broccoli/static/css/main.70069951.chunk.css",
+  "main.js": "/colorful-broccoli/static/js/main.4c7c9bf8.chunk.js",
+  "main.js.map": "/colorful-broccoli/static/js/main.4c7c9bf8.chunk.js.map",
+  "runtime~main.js": "/colorful-broccoli/static/js/runtime~main.9251a540.js",
+  "runtime~main.js.map": "/colorful-broccoli/static/js/runtime~main.9251a540.js.map",
+  "static/js/2.8f71a45e.chunk.js": "/colorful-broccoli/static/js/2.8f71a45e.chunk.js",
+  "static/js/2.8f71a45e.chunk.js.map": "/colorful-broccoli/static/js/2.8f71a45e.chunk.js.map",
+  "index.html": "/colorful-broccoli/index.html",
+  "precache-manifest.ff4f34f441b9856125790db90d32af74.js": "/colorful-broccoli/precache-manifest.ff4f34f441b9856125790db90d32af74.js",
+  "service-worker.js": "/colorful-broccoli/service-worker.js",
+  "static/css/main.70069951.chunk.css.map": "/colorful-broccoli/static/css/main.70069951.chunk.css.map",
+  "static/media/logo.svg": "/colorful-broccoli/static/media/logo.5d5d9eef.svg"
 }
